@@ -1,0 +1,30 @@
+[
+  {
+    "repository": "microsoft/vscode",
+    "description": "Visual Studio Code is a lightweight but powerful source code editor.",
+    "language": "TypeScript",
+    "stars": 168000,
+    "starredAt": "2026-08-28"
+  },
+  {
+    "repository": "python/cpython",
+    "description": "The Python programming language.",
+    "language": "Python",
+    "stars": 68000,
+    "starredAt": "2026-08-21"
+  },
+  {
+    "repository": "vercel/next.js",
+    "description": "The React framework for the web.",
+    "language": "JavaScript",
+    "stars": 132000,
+    "starredAt": "2026-08-14"
+  },
+  {
+    "repository": "rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.",
+    "language": "Rust",
+    "stars": 105000,
+    "starredAt": "2026-08-07"
+  }
+]
